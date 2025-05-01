@@ -50,7 +50,7 @@
         "title": "Spooky Scary Skeleton",
         "artist": "C00lk1dd",
         "albumArt": "https://files.catbox.moe/l0wtee.jpg",
-        "audioFile": "YOUR_AUDIO_FILE_URL.mp3", 
+        "audioFile": "https://files.catbox.moe/ik7fv6.mp3", 
         "duration": 180,
         "timeSync": [
             { "time": 0, "text": "Intro music..." },
